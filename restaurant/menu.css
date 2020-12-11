@@ -1,0 +1,13 @@
+#menu
+{
+  text-align: center;
+}
+#menu h1
+{
+    font-family: 'Alata', sans-serif;
+}
+#menu .container .row .col-sm img
+{
+  height: 250px;
+  width: 250px;
+}

@@ -1,0 +1,142 @@
+html{
+    /*
+        // Extra small devices (portrait phones, less than 576px)
+    // No media query since this is the default in Bootstrap
+    */
+    /*// Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) { ... }
+
+    /*// Medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) { ... }
+
+    /*// Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) { ... }
+
+    /*// Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) { ... }
+    }
+    nav{
+        font-family: 'Alata', sans-serif;
+        font-size: 17px;
+    }
+    b{
+        font-size: 20px;
+        font-family: 'Alata', sans-serif;
+    }
+    nav i{
+        color: white;
+    }
+    nav span{
+      color: white;
+        font-family: 'Alata', sans-serif;
+
+    }
+    nav .nav-item .nav-link{
+        text-decoration: none;
+         font-weight: bold;
+    }
+    nav .nav-item .nav-link i
+
+
+
+
+    /*body*/
+    .body{
+        font-family: 'Alata', sans-serif;
+    }
+    .body .container p img{
+        width: auto;
+        height: auto;
+        float: right;
+    }
+    .jumbotron
+    {
+        background-image: url(china.png);
+        background-size: cover;
+
+    }
+    .jumbotron-fluid
+    {
+     border-radius: 15px;
+    }
+
+    .container h6
+    {
+        text-align: center;
+        font-family: 'Chelsea Market', cursive;
+        font-size: 2rem;
+        color: white;
+    }
+    .container p
+    {
+        text-align: center;
+        font-family: 'Chelsea Market', cursive;
+        font-size: 1.5rem;
+        color:white;
+    }
+    h4
+    {
+        font-family: 'Chelsea Market', cursive;
+        text-align: center;
+    }
+    p
+    {
+        font-family: 'Alata', sans-serif;
+    }
+    h5
+    {
+        font-family: 'Chelsea Market', cursive;
+        color:#990073 ;
+    }
+    #list
+    {
+        font-family: 'Alata', sans-serif;
+    }
+    /*===============================================================footer========================================================================*/
+    footer{
+        text-align: center;
+    }
+    footer h6 {
+        text-align: left;
+        font-family: 'Alata', sans-serif;
+
+    }
+
+    .col img {
+        width: 50px;
+        height: 50px;
+    }
+
+    section {
+        text-align: center;
+        font-family: 'Alata', sans-serif;
+    }
+
+    section p {
+
+        text-decoration: none;
+    }
+    section p a{
+        text-decoration: none;
+    }section p a:hover{
+        text-decoration: none;
+    }
+    .container .row
+    {
+        text-align: center;
+    }
+    .container .row .col-sm a .card img
+    {
+        height:250px;
+        width: 400px;
+
+    }
+    .container .row .col-sm a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    .container .row .col-sm a .card h5
+    {
+      font-family:'Alata', sans-serif;
+    }
